@@ -72,7 +72,7 @@ $ cd devRadar-omnistack10/frontend
 # Instale as dependências
 $ yarn install
 
-# Execute o backend
+# Execute o frontend web
 $ yarn start
 ```
 
@@ -87,7 +87,7 @@ $ cd devRadar-omnistack10/mobile
 # Instale as dependências
 $ yarn install
 
-# Execute o backend
+# Execute o frontend mobile
 $ yarn start
 
 # Leia o qrcode gerado no aplicativo do expo no seu celular
